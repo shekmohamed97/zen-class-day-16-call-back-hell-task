@@ -1,0 +1,25 @@
+h1{
+        display: flex;
+        justify-content: center;
+        align-items: center;  
+        font-family: sans-serif;  
+        margin-top: 23%;
+        font-size: 400%;
+        background-image: url('https://pixabay.com/gifs/india-flag-wave-blow-cloth-wind-450/');
+        background-repeat: no-repeat;
+        background-position: center;
+        color:whitesmoke;
+        background-clip: text;       
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    margin-top: 26%;
+    font-size: xx-large;
+    color: whitesmoke;
+}
+body{
+    background-color:black;
+}
